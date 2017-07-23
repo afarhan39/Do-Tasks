@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/card_task"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    style="@style/AppTheme.Card.Margins">
+
+
+    <TextView
+        android:id="@+id/t_task_name"
+        tools:text="Tidy up room"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:duplicateParentState="true" />
+
+    <TextView
+        android:id="@+id/t_task_dateUpdated"
+        tools:text="07/01/2015"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:duplicateParentState="true"
+        android:layout_gravity="top|end"/>
+
+    <TextView
+        android:id="@+id/t_task_description"
+        tools:text="Before afternoon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:duplicateParentState="true"
+        android:layout_marginTop="30dp"/>
+
+    <ImageView
+        android:id="@+id/i_task_delete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_delete"
+        android:layout_gravity="bottom|end"/>
+
+</android.support.v7.widget.CardView>
