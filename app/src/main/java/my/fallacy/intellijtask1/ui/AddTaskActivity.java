@@ -52,7 +52,7 @@ public class AddTaskActivity extends AppCompatActivity {
                     tarikh + " " + masa,
                     tarikh + " " + masa));
 
-            Toast.makeText(this, "Saved", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "Saveddsadaa", Toast.LENGTH_SHORT).show();
             finish();
         }
 
