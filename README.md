@@ -18,7 +18,7 @@ This app, Do-Tasks helps to store tasks that user want to do. Hence, **Do-Tasks*
 This is the main page of the app. User can click + Button to add task as desired.
 
 
-<img src=https://user-images.githubusercontent.com/24514082/28602632-c6868c66-71f1-11e7-9e58-976ec1833e7e.png width="200">
+<img src=https://user-images.githubusercontent.com/24514082/28602632-c6868c66-71f1-11e7-9e58-976ec1833e7e.png width="200" align="middle">
 
 User can enter name and description of task before save it.
 
