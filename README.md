@@ -1,9 +1,9 @@
 # Do-Tasks
 Simple and fast tasks-to-do list!
 
-You can refer to this link for temporary ReadMe
+Do-Tasks have 4 major features!
+1. Create Task
+2. Edit Task
+3. Delete Task
+4. List All Tasks
 
-https://docs.google.com/document/d/1e_boVZ7dXHtUTbyCBJTpf6EJGuk9MXT2b9Z4Mo7-mT8/edit?usp=sharing
-
-Proper ReadMe will updated shortly.
-Thanks
