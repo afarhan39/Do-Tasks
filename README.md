@@ -9,7 +9,12 @@ Do-Tasks have 4 major features!
 3. Delete Task
 4. List All Tasks
 
-## Code Example
+<img src=https://user-images.githubusercontent.com/24514082/28602452-c490aafa-71f0-11e7-9053-486b27555d94.png width="200">
+
+
+## Explanation
+
+1. User will be 
 
 
 Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
