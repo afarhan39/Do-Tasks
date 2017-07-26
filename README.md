@@ -7,5 +7,3 @@ https://docs.google.com/document/d/1e_boVZ7dXHtUTbyCBJTpf6EJGuk9MXT2b9Z4Mo7-mT8/
 
 Proper ReadMe will updated shortly.
 Thanks
-
-test1
